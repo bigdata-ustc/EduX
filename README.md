@@ -6,7 +6,7 @@ Pretty collections of tools for educational data mining.
 [EduData](https://github.com/bigdata-ustc/EduData): Datasets in Education and convenient interface for downloading and preprocessing dataset in education
 
 
-# Item Modeling
+## Item Modeling
 
 [EduNLP](https://github.com/bigdata-ustc/EduNLP): A library for advanced Natural Language Processing towards multi-modal educational items.
 
