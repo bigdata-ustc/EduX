@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="300" src="EduX.png">
+</p>
+
 # EduX
 Pretty collections of tools for educational data mining.
 
