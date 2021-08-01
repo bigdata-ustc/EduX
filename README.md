@@ -1,6 +1,5 @@
-<p align="center">
-  <img width="300" src="EduX.png">
-</p>
+![EduX](_static/EduX.png)
+
 
 # EduX
 Pretty collections of tools for educational data mining.
