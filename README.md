@@ -1,4 +1,6 @@
-![EduX](_static/EduX.png)
+<p align="center">
+  <img width="600" src="EduX.png">
+</p>
 
 
 # EduX
